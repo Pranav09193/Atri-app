@@ -1,0 +1,20 @@
+{
+  "Flex": 200,
+  "TextBox": 144,
+  "Icon": 2,
+  "Upload": 1,
+  "Menu": 2,
+  "Image": 71,
+  "Overlay": 4,
+  "AreaChart": 2,
+  "Div": 102,
+  "Button": 51,
+  "Carousel": 7,
+  "Cascader": 5,
+  "Modal": 3,
+  "Input": 5,
+  "Form": 1,
+  "UnorderedList": 1,
+  "Testimonial": 1,
+  "Table": 1
+}
