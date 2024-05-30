@@ -1,4 +1,4 @@
-# Restaurant website using Ati framework
+# Restaurant website using Atri framework
 
 This is a website created for a restaurant called "Restaurante X" using the Atri framework. The website offers an online ordering system, table reservations, and provides information about the restaurant's menu, location, and services.
 
@@ -14,7 +14,6 @@ This is a website created for a restaurant called "Restaurante X" using the Atri
 - **Atri framework**
 - **HTML**
 - **CSS**
-- **JavaScript** (if applicable)
 
 ## Installation
 
@@ -22,11 +21,11 @@ To run the website locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/restaurant-website.git
+   git clone https://github.com/your-username/Atri-app.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd restaurant-website
+   cd Atri-app
    ```
 3. Open the `index.html` file in your preferred web browser.
 
